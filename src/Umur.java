@@ -22,10 +22,10 @@ public class Umur {
         System.out.println("Sila masukkan umur: ");
         umur = input.nextInt();
         
-        if(umur<=44){
+        if(umur<=50){
         System.out.println("anda masih muda dan cantik");    
         }
-        else if(umur>45){
+        else if(umur>51){
         System.out.println("Anda sudah tua dan perlukan rehat");
         }
     }
